@@ -17,7 +17,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhamri&count_private=true&show_icons=true&theme=bufey" />
 </a>
-   &nbsp;&nbsp;|&nbsp;&nbsp;|&nbsp;&nbsp;
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamri&layout=compact&langs_count=8" />
