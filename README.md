@@ -7,10 +7,22 @@
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=mhamri.com&url=https%3A%2F%2Fmhamri.com)](https://mhamri.com)
 
 <!-- [![](https://img.shields.io/badge/-mhamri-d9aaaa?&style=flat-square&logo=Youtube&logoColor=red&link=https://www.youtube.com/in/mhamri/)](https://www.linkedin.com/in/mhamri/) -->
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhamri&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohammad Hossein Amri's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhamri&count_private=true&show_icons=true&theme=bufey)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align=center>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhamri&count_private=true&show_icons=true&theme=bufey" />
+</a>
+   &nbsp;&nbsp;|&nbsp;&nbsp;|&nbsp;&nbsp;
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamri&layout=compact&langs_count=8" />
+</a>
 
+<p>
 
-[![Mohammad Hossein Amri's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhamri&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mhamri/mhamri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,3 +38,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
